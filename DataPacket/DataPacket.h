@@ -5,6 +5,10 @@
 #include "ZeroType.h"
 #include "FingerPairType.h"
 
+// Need to know if the device is
+// connected via USB or Bluetooth.
+// TODO: Is there a nicer way to fix this?
+#define BLUETOOTH true
 
 // http://eleccelerator.com/wiki/index.php?title=DualShock_4#HID_INPUT
 struct DataPacket {

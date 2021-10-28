@@ -3,10 +3,6 @@
 #pragma clang diagnostic push
 #pragma ide diagnostic ignored "EndlessLoop"
 
-// Need to know if the device is
-// connected via USB or Bluetooth.
-#define BLUETOOTH false
-
 int main() {
     DualShock4 ps4controller = DualShock4();
 
@@ -17,4 +13,5 @@ int main() {
         }
     }
 }
+
 #pragma clang diagnostic pop
