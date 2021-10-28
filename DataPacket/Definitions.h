@@ -1,0 +1,6 @@
+#ifndef MAIN_CPP_DEFINITIONS_H
+#define MAIN_CPP_DEFINITIONS_H
+
+#define BYTE 8
+
+#endif //MAIN_CPP_DEFINITIONS_H
