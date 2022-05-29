@@ -1,7 +1,7 @@
 #ifndef MAIN_CPP_FINGERPAIRTYPE_H
 #define MAIN_CPP_FINGERPAIRTYPE_H
 
-#include "Definitions.h"
+#include "../../Definitions.h"
 #include "FingerType.h"
 
 struct FingerPair{
