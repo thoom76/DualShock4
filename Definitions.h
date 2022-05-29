@@ -3,4 +3,7 @@
 
 #define BYTE 8
 
+#define DUALSHOCK_VENDOR_ID 0x054c
+#define DUALSHOCK_PRODUCT_ID 0x05c4
+
 #endif //MAIN_CPP_DEFINITIONS_H
